@@ -1,0 +1,60 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration:none;
+	lisst-style:none;
+	box-sizing:border-box;
+}
+body{
+	font-family:montserrat;
+}
+nav{
+	background:gray;
+	height:80px;
+	width:100%;
+}
+label.logo{
+	color:white;
+	font-size:45px;
+	line-height:100px;
+	padding:0 0px;
+	font-weight:bold;
+	text-align:center;
+}
+nav ul{
+	float:right;
+	margin-right:20px;
+}
+nav ul li{
+	display:inline-block;
+	line-height:80px;
+	margin:0 5px;
+}
+nav ul li a{
+	color:white;
+}
+nav ul li a{
+	color:white;
+	font-size:17px;
+	padding:7px 13px;
+	border-radius:3px;
+	text-transform:uppercase;
+}
+a.active,a:hover{
+	background:#1b9bff;
+	transition:.5s;
+}
+
+nav a.img{
+	position:absolute;
+	margin-top:80px;
+	margin-left:10px;}
+body
+{
+        background-image: url('volunteernew.png') ;
+	background-repeat:no-repeat ;
+        background-size:100%;
+}
+p{
+	text-align:center;
+}
